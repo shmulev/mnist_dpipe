@@ -1,6 +1,3 @@
-from dpipe.batch_iter.slices import slices
-from dpipe.train.batch_iter import make_batch_iter_from_finite
-from functools import partial
 from dpipe.medim.utils import load_by_ids
 import pdp
 
